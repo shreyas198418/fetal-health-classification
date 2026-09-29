@@ -1,0 +1,5 @@
+Model,Features,CV Macro F1,Std
+Random Forest,All 21 features,0.8874,0.0281
+Random Forest,Top 10 features,0.8811,0.0168
+Logistic Regression,All 21 features,0.7871,0.0218
+Logistic Regression,Top 10 features,0.7823,0.032
