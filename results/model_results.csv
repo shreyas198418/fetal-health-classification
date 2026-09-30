@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,Macro F1
+XGBoost Tuned,0.9551,0.9628,0.8927,0.9236
+XGBoost,0.9551,0.9539,0.8927,0.9194
+Random Forest,0.948,0.9438,0.8717,0.903
+Decision Tree,0.9267,0.8667,0.8711,0.8662
+Logistic Regression,0.896,0.8357,0.7738,0.8018
